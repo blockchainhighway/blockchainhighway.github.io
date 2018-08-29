@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="72.593002mm"
+   height="19.593mm"
+   viewBox="0 0 72.593002 19.593"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style4485">.a,.b{fill:#fff;}.a{font-size:22px;font-family:Arial-ItalicMT, Arial;font-style:italic;}.b{font-size:59px;font-family:AvenirNextCyr-Heavy, Avenir Next Cyr;font-weight:800;}</style>
+    <style
+       id="style4511">.a,.b{fill:#fff;}.a{font-size:22px;font-family:Arial-ItalicMT, Arial;font-style:italic;}.b{font-size:59px;font-family:AvenirNextCyr-Heavy, Avenir Next Cyr;font-weight:800;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-182.85714"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-277.407)">
+    <g
+       id="g4497"
+       transform="matrix(0.26458333,0,0,0.26458333,88.047758,128.6705)">
+      <text
+         id="text4491"
+         transform="translate(281,95)"
+         class="a"
+         style="font-style:italic;font-size:22px;font-family:Arial-ItalicMT, Arial;fill:#ffffff">
+        <tspan
+           id="tspan4489"
+           y="0"
+           x="0">Blockchain</tspan>
+      </text>
+      <text
+         id="text4495"
+         transform="translate(109,139)"
+         class="b"
+         style="font-weight:800;font-size:59px;font-family:AvenirNextCyr-Heavy, 'Avenir Next Cyr';fill:#ffffff">
+        <tspan
+           id="tspan4493"
+           y="0"
+           x="0">Highway</tspan>
+      </text>
+    </g>
+    <g
+       id="g4523"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.86987,256.47642)">
+      <text
+         id="text4517"
+         transform="translate(281,95)"
+         class="a"
+         style="font-style:italic;font-size:22px;font-family:Arial-ItalicMT, Arial;fill:#ffffff">
+        <tspan
+           id="tspan4515"
+           y="0"
+           x="0">Blockchain</tspan>
+      </text>
+      <text
+         id="text4521"
+         transform="translate(109,139)"
+         class="b"
+         style="font-weight:800;font-size:59px;font-family:AvenirNextCyr-Heavy, 'Avenir Next Cyr';fill:#ffffff">
+        <tspan
+           id="tspan4519"
+           y="0"
+           x="0">Highway</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
